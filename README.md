@@ -1,5 +1,5 @@
 ## Samsung_stock_Machine_Learning  
-Prediction and classification using moving average method and neural network method with Samsung's stock price index
+#### Prediction and classification using moving average method and neural network method with Samsung's stock price index
 ---
 삼성 주식의 지수를 이용해서 MA와 신경망 방법을 이용한 주가지수 예측방법  
 2018-05-04 ~ 2020-01-31의 삼성주가지수의 종가를 이용해서  
